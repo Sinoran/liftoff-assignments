@@ -7,12 +7,28 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Video-game Achievement Tracking System--- V.A.T.S.
+Real-time video game achievement tracking and review system.
+
 ### Features
-Include Features here
+Create Account: Users can login and logout
+CRUD database achievements
+CRUD database reviews
+
+### Wishlist
+Comparing user data between one another
+Finding users similar to your taste in games
+
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Working with API's
+Learning to link data to user
+
 ### Project Tracker
 Link to your Trello board here
