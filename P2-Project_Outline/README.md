@@ -7,8 +7,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Video-game Achievement Tracking System--- V.A.T.S.
 Real-time video game achievement tracking and review system.
+Video-game Achievement Tracking System--- V.A.T.S.
 
 ### Features
 Create Account: Users can login and logout
